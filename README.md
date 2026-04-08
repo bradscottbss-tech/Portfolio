@@ -1,2 +1,2 @@
 # Portfolio
-Project completed by Bradley Scott
+Projects completed by Bradley Scott
